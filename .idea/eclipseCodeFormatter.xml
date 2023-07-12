@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="disabledFileTypes" value="jsp;html;css;js;xml;yml;" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="E:/idea_setting/example.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="pathToConfigFileJava" value="E:/idea_setting/code-style.xml" />
+        <option name="selectedJavaProfile" value="EnnFormatter" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
